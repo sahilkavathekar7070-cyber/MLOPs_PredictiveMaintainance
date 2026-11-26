@@ -1,0 +1,23 @@
+2026-11-26 12:28:47 | INFO | __main__:main:7 | (50000, 30)
+2026-11-26 12:28:47 | INFO | __main__:main:8 | Index(['record_id', 'timestamp', 'mine_id', 'conveyor_id', 'idler_id',
+       'vibration_rms', 'vibration_peak', 'vibration_kurtosis',
+       'vibration_crest_factor', 'bpfo_amplitude', 'bpfi_amplitude',
+       'bsf_amplitude', 'ftf_amplitude', 'bearing_temperature',
+       'acoustic_level', 'rotational_speed', 'ambient_temperature', 'humidity',
+       'dust_concentration', 'moisture_level', 'operating_hours',
+       'conveyor_load', 'belt_speed', 'motor_current', 'lubrication_age_hours',
+       'last_maintenance_hours', 'previous_failure_count',
+       'seal_condition_score', 'bearing_age_months', 'failure_within_7_days'],
+      dtype='str')
+2026-11-26 12:36:48 | INFO | src.data_ingestion:data_ingestion:22 | Data Ingestion Started.......
+2026-11-26 12:36:48 | INFO | src.data_ingestion:data_ingestion:24 | Data Ingestion Completed with (50000, 30)
+2026-11-26 12:36:48 | INFO | src.data_ingestion:data_ingestion:25 | Data Columns :Index(['record_id', 'timestamp', 'mine_id', 'conveyor_id', 'idler_id',
+       'vibration_rms', 'vibration_peak', 'vibration_kurtosis',
+       'vibration_crest_factor', 'bpfo_amplitude', 'bpfi_amplitude',
+       'bsf_amplitude', 'ftf_amplitude', 'bearing_temperature',
+       'acoustic_level', 'rotational_speed', 'ambient_temperature', 'humidity',
+       'dust_concentration', 'moisture_level', 'operating_hours',
+       'conveyor_load', 'belt_speed', 'motor_current', 'lubrication_age_hours',
+       'last_maintenance_hours', 'previous_failure_count',
+       'seal_condition_score', 'bearing_age_months', 'failure_within_7_days'],
+      dtype='str')
